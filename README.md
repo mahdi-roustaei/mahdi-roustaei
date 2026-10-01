@@ -4,7 +4,11 @@ Applied Computer Science student (B.Sc.) at **Hochschule Hannover**, based in Ha
 
 I am looking for a **working student position (Werkstudent)** in software development, with a particular interest in backend applications and working with data. My hands-on university projects use Java, JavaScript and C.
 
-## Selected projects
+## Current learning project
+
+[Bewerbungs-Tracker](https://github.com/mahdi-roustaei/bewerbungs-tracker) — Python, FastAPI and SQLite with a German web UI, status history, follow-ups, CSV export and automated tests. AI-assisted initial implementation; a personal project for learning backend development.
+
+## Selected university projects
 
 | Project | Technologies | Scope and my contribution |
 | --- | --- | --- |
